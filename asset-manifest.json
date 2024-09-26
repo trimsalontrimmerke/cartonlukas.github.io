@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/website_marie_react/static/css/main.ad7aa0fd.css",
-    "main.js": "/website_marie_react/static/js/main.782c1412.js",
+    "main.js": "/website_marie_react/static/js/main.1a29a42b.js",
     "static/js/453.132e54cd.chunk.js": "/website_marie_react/static/js/453.132e54cd.chunk.js",
     "index.html": "/website_marie_react/index.html",
     "main.ad7aa0fd.css.map": "/website_marie_react/static/css/main.ad7aa0fd.css.map",
-    "main.782c1412.js.map": "/website_marie_react/static/js/main.782c1412.js.map",
+    "main.1a29a42b.js.map": "/website_marie_react/static/js/main.1a29a42b.js.map",
     "453.132e54cd.chunk.js.map": "/website_marie_react/static/js/453.132e54cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad7aa0fd.css",
-    "static/js/main.782c1412.js"
+    "static/js/main.1a29a42b.js"
   ]
 }
