@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/website_marie_react/static/css/main.e0522193.css",
-    "main.js": "/website_marie_react/static/js/main.d2da0c63.js",
+    "main.css": "/website_marie_react/static/css/main.50f716d4.css",
+    "main.js": "/website_marie_react/static/js/main.ce18ad95.js",
     "static/js/453.132e54cd.chunk.js": "/website_marie_react/static/js/453.132e54cd.chunk.js",
     "static/media/hondepootje icon.png": "/website_marie_react/static/media/hondepootje icon.2bed2f0cd6d13d7dcebd.png",
     "index.html": "/website_marie_react/index.html",
-    "main.e0522193.css.map": "/website_marie_react/static/css/main.e0522193.css.map",
-    "main.d2da0c63.js.map": "/website_marie_react/static/js/main.d2da0c63.js.map",
+    "main.50f716d4.css.map": "/website_marie_react/static/css/main.50f716d4.css.map",
+    "main.ce18ad95.js.map": "/website_marie_react/static/js/main.ce18ad95.js.map",
     "453.132e54cd.chunk.js.map": "/website_marie_react/static/js/453.132e54cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0522193.css",
-    "static/js/main.d2da0c63.js"
+    "static/css/main.50f716d4.css",
+    "static/js/main.ce18ad95.js"
   ]
 }
