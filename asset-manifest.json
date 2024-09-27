@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/website_marie_react/static/css/main.bbc56351.css",
-    "main.js": "/website_marie_react/static/js/main.222b853c.js",
+    "main.js": "/website_marie_react/static/js/main.9f898107.js",
     "static/js/453.132e54cd.chunk.js": "/website_marie_react/static/js/453.132e54cd.chunk.js",
     "static/media/hondepootje icon.png": "/website_marie_react/static/media/hondepootje icon.2bed2f0cd6d13d7dcebd.png",
     "index.html": "/website_marie_react/index.html",
     "main.bbc56351.css.map": "/website_marie_react/static/css/main.bbc56351.css.map",
-    "main.222b853c.js.map": "/website_marie_react/static/js/main.222b853c.js.map",
+    "main.9f898107.js.map": "/website_marie_react/static/js/main.9f898107.js.map",
     "453.132e54cd.chunk.js.map": "/website_marie_react/static/js/453.132e54cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbc56351.css",
-    "static/js/main.222b853c.js"
+    "static/js/main.9f898107.js"
   ]
 }
