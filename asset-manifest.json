@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1a5d5a6.css",
-    "main.js": "/static/js/main.9be9c242.js",
+    "main.css": "/static/css/main.a94b3384.css",
+    "main.js": "/static/js/main.b65f1303.js",
     "static/js/453.132e54cd.chunk.js": "/static/js/453.132e54cd.chunk.js",
     "static/media/hondepootje icon.png": "/static/media/hondepootje icon.2bed2f0cd6d13d7dcebd.png",
     "index.html": "/index.html",
-    "main.e1a5d5a6.css.map": "/static/css/main.e1a5d5a6.css.map",
-    "main.9be9c242.js.map": "/static/js/main.9be9c242.js.map",
+    "main.a94b3384.css.map": "/static/css/main.a94b3384.css.map",
+    "main.b65f1303.js.map": "/static/js/main.b65f1303.js.map",
     "453.132e54cd.chunk.js.map": "/static/js/453.132e54cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1a5d5a6.css",
-    "static/js/main.9be9c242.js"
+    "static/css/main.a94b3384.css",
+    "static/js/main.b65f1303.js"
   ]
 }
