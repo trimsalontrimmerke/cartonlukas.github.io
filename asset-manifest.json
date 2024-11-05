@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f02fc08b.css",
-    "main.js": "/static/js/main.ce623544.js",
-    "static/js/453.132e54cd.chunk.js": "/static/js/453.132e54cd.chunk.js",
-    "static/media/hondepootje icon.png": "/static/media/hondepootje icon.2bed2f0cd6d13d7dcebd.png",
-    "index.html": "/index.html",
-    "main.f02fc08b.css.map": "/static/css/main.f02fc08b.css.map",
-    "main.ce623544.js.map": "/static/js/main.ce623544.js.map",
-    "453.132e54cd.chunk.js.map": "/static/js/453.132e54cd.chunk.js.map"
+    "main.css": "/cartonlukas.github.io/static/css/main.2a14662c.css",
+    "main.js": "/cartonlukas.github.io/static/js/main.6e06f457.js",
+    "static/js/453.132e54cd.chunk.js": "/cartonlukas.github.io/static/js/453.132e54cd.chunk.js",
+    "static/media/hondepootje icon.png": "/cartonlukas.github.io/static/media/hondepootje icon.2bed2f0cd6d13d7dcebd.png",
+    "index.html": "/cartonlukas.github.io/index.html",
+    "main.2a14662c.css.map": "/cartonlukas.github.io/static/css/main.2a14662c.css.map",
+    "main.6e06f457.js.map": "/cartonlukas.github.io/static/js/main.6e06f457.js.map",
+    "453.132e54cd.chunk.js.map": "/cartonlukas.github.io/static/js/453.132e54cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f02fc08b.css",
-    "static/js/main.ce623544.js"
+    "static/css/main.2a14662c.css",
+    "static/js/main.6e06f457.js"
   ]
 }
