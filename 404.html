@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>Single Page Apps for GitHub Pages</title>
+    <meta charset="utf-8" />
+    <title>Page Not Found</title>
     <script type="text/javascript">
-      // This script rewrites all URL paths to /index.html so React can handle routing
-      (function() {
-        var l = window.location;
-        // If the path is not the root ("/") and not a file (e.g., .html, .css), rewrite it to /index.html
-        if (l.pathname !== "/" && !l.pathname.includes(".")) {
-          // Rewrite the URL to index.html with the path as a hash
-          window.location.replace("/index.html" + l.pathname + l.search + l.hash);
-        }
-      })();
+      // This script will redirect to the index.html, which will be handled by React Router
+      var path = window.location.pathname;
+      if (path !== '/') {
+        window.location.replace(window.location.protocol + "//" + window.location.host + "/index.html" + window.location.pathname + window.location.search);
+      }
     </script>
   </head>
-  <body>
-  </body>
+  <body></body>
 </html>
