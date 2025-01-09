@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <title>Single Page Apps for GitHub Pages</title>
     <script type="text/javascript">
-      // Single Page Apps for GitHub Pages
-      var pathSegmentsToKeep = 0; // Adjust this if your app is inside a subdirectory.
-
-      var l = window.location;
-      if (l.search.startsWith("?/")) {
-        var cleanPath = l.search.slice(2).replace(/~and~/g, "&");
-        var newUrl = l.protocol + "//" + l.hostname + (l.port ? ":" + l.port : "") +
-          l.pathname.split("/").slice(0, 1 + pathSegmentsToKeep).join("/") + "/" +
-          cleanPath + l.hash;
-        window.history.replaceState(null, null, newUrl);
-      }
+      (function() {
+        var l = window.location;
+        if (l.search.startsWith("?/")) {
+          // Extract the path from the query string
+          var path = l.search.slice(2).replace(/~and~/g, "&");
+          // Rebuild the URL
+          var newUrl = l.protocol + "//" + l.host + "/" + path + l.hash;
+          // Update the browser URL without reloading
+          window.history.replaceState(null, null, newUrl);
+        }
+      })();
     </script>
   </head>
   <body>
