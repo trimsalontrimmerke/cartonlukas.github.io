@@ -6,13 +6,9 @@
     <script type="text/javascript">
       (function() {
         var l = window.location;
-        if (l.search.startsWith("?/")) {
-          // Extract the path from the query string
-          var path = l.search.slice(2).replace(/~and~/g, "&");
-          // Rebuild the URL
-          var newUrl = l.protocol + "//" + l.host + "/" + path + l.hash;
-          // Update the browser URL without reloading
-          window.history.replaceState(null, null, newUrl);
+        if (l.pathname !== "/" && !l.pathname.includes(".")) {
+          // Redirect the user to the base path (without hash) on non-root paths
+          window.location.replace("/" + l.pathname.slice(1));
         }
       })();
     </script>
